@@ -31,7 +31,39 @@ Zamanında  Yahoo'dan   ilk alan adını almıştım Hatta ismide soonsoft.com'i
 
 <figure>
 	<a href="http://twitpic.com/dl4i76" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i76.png"  alt="Share photos on twitter with Twitpic"></a>
-	<figcaption><a href=""  title="godaddy">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<figcaption><a href=""  title="godaddy">aa</a>.</figcaption>
 </figure>
-## Hosting  seçimi  
 
+<figure>
+	<a href="http://twitpic.com/dl4i90" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i90.png" width="150" height="150" alt="Share photos on twitter with Twitpic"></a>
+	<figcaption><a href=""  title="godaddy">aa</a>.</figcaption>
+</figure>
+
+<figure>
+	<a href="http://twitpic.com/dl4i76" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i76.png"  alt="Share photos on twitter with Twitpic"></a>
+	<figcaption><a href=""  title="godaddy">aa</a>.</figcaption>
+</figure>
+
+## Hosting  seçimi  
+Hosting seçimi bugünlerde  trend olan     PAAS  yani platform as a servicedir. Diğerleride aşağıdaki pramitte görüldüğü gibidir.  Burada  pramitin yukarısına gittikçe bir sitesinin çalişması için gerekli olangerkesinimleri  satın almış olduğunuz firma sizin için ayarlamaları yapıyor.
+
+Belli başlıca PAAS ürünleri
+* Openshıft      (redhat firması)
+	*Rails
+	*PHP
+	*
+* CloudFoundry   (Wmware)
+	*Raıils
+	*PHP
+* Heroku
+* EngineYard 
+	*Rails
+* Azerus
+	*Asp.net
+
+
+
+<figure>
+	<a href="http://twitpic.com/dl5g4c" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl5g4c.png" width="150" height="150" alt="Share photos on twitter with Twitpic"></a>
+	<figcaption><a href=""  title="godaddy">aa</a>.</figcaption>
+</figure>
