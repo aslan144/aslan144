@@ -60,8 +60,8 @@ Belli başlıca PAAS ürünleri
 	*Rails
 * Azerus
 	*Asp.net
-
-
+* aws  (amazon)
+* Google App Engine
 
 <figure>
 	<a href="http://twitpic.com/dl5g4c" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl5g4c.png" width="150" height="150" alt="Share photos on twitter with Twitpic"></a>
