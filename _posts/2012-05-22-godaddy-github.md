@@ -29,31 +29,23 @@ Belli başlı olanlar  (Domain Name Registrars)
 Zamanında  Yahoo'dan   ilk alan adını almıştım Hatta ismide soonsoft.com'idi. Bu yıllar önceydi. Bundan  sonraki alan adlarını hep Godaddy'den aldım.  Gadaddy  fiyatları  gayet iyi  ama :(  diyorum  çünkü ilk sene için fiyat düşük tutuyorlar Eğer uzatmak istediğinizde fiyatlar biraz pahalı. Ben   de maalesef Haslan03 alan adını 1 yıllık olarak almıştım. Yaklaşık olarak 20Tl gelmiş oldu. Bir domaine satın  almayı futboldaki kombine bilet alamak gibi  düşünebilirsiz. Doğal olarak kiralama senesi arttıkça maaliyetlerini de düşürüyorlar. Aşağıda resmi ekledim ınceleyebilirsiniz.
 
 
-<figure>
-	<a href="http://twitpic.com/dl4i76" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i76.png"  alt="Share photos on twitter with Twitpic"></a>
-	<figcaption><a href=""  title="godaddy">aa</a>.</figcaption>
-</figure>
-
-<figure>
-	<a href="http://twitpic.com/dl4i90" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i90.png" width="150" height="150" alt="Share photos on twitter with Twitpic"></a>
-	<figcaption><a href=""  title="godaddy">aa</a>.</figcaption>
-</figure>
-
-<figure>
-	<a href="http://twitpic.com/dl4i76" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i76.png"  alt="Share photos on twitter with Twitpic"></a>
-	<figcaption><a href=""  title="godaddy">aa</a>.</figcaption>
+<figure class="half">
+	<a href="" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i76.png"  alt="Share photos on twitter with Twitpic"></a>
+	<a href="" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i90.png"  alt="Share photos on twitter with Twitpic"></a>
+	<a href="" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl4i76.png"  alt="Share photos on twitter with Twitpic"></a>
+	<figcaption><a href=""  title="godaddy"></a></figcaption>
 </figure>
 
 ## Hosting  seçimi  
-Hosting seçimi bugünlerde  trend olan     PAAS  yani platform as a servicedir. Diğerleride aşağıdaki pramitte görüldüğü gibidir.  Burada  pramitin yukarısına gittikçe bir sitesinin çalişması için gerekli olangerkesinimleri  satın almış olduğunuz firma sizin için ayarlamaları yapıyor.
+Hosting seçimi bugünlerde  trend olan     PAAS  yani platform as a servicedir. Diğerleride aşağıdaki pramitte görüldüğü gibidir.  Burada  pramitin yukarısına gittikçe bir sitesinin çalişması için gerekli olan gerkesinimleri,  satın almış olduğunuz firma sizin için ayarlamaları yapıyor. Bu da asıl işinize yoğunlaşmanızı  sağlıyor.
 
 Belli başlıca PAAS ürünleri
-* Openshıft      (redhat firması)
+* Openshıft      (Redhat firması)
 	*Rails
 	*PHP
 	*
 * CloudFoundry   (Wmware)
-	*Raıils
+	*Rails
 	*PHP
 * Heroku
 * EngineYard 
@@ -63,7 +55,7 @@ Belli başlıca PAAS ürünleri
 * aws  (amazon)
 * Google App Engine
 
-<figure>
-	<a href="http://twitpic.com/dl5g4c" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl5g4c.png" width="150" height="150" alt="Share photos on twitter with Twitpic"></a>
-	<figcaption><a href=""  title="godaddy">aa</a>.</figcaption>
+<figure >
+	<a href="" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dl5g4c.png" width="150" height="150" alt=""></a>
+	<figcaption><a href=""  title="godaddy"></a>.</figcaption>
 </figure>
